@@ -1,0 +1,8 @@
+/target/
+
+hasp_core/target/
+hasp_cli/target/
+
+.idea/
+.vscode/
+*.swp

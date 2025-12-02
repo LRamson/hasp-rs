@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "hasp_core",
+    "hasp_cli"
+, "hasp-core"]
+resolver = "2"
