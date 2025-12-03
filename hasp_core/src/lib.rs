@@ -1,6 +1,7 @@
 pub mod errors;
 pub mod models;
 pub mod db;
+pub mod crypto;
 
 pub use errors::HaspError;
 pub use models::PasswordEntry;
